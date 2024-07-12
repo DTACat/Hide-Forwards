@@ -1,0 +1,12 @@
+[class*="message"] [class*="container"] [class*="quote"] {
+	display: none;
+}
+[class*="message"] [class*="container"] [class*="headerContainer"] {
+	display: none;
+}
+[class*="message"] [class*="container"] [class*="footerContainer"] {
+	display: none;
+}
+[class*="message"] [class*="repliedMessage"] [class*="repliedTextContentLeadingIcon"] {
+	display: none;
+}
